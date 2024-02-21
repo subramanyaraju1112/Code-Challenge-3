@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import "./style.css";
-import MRF from "../assets/images/mrf.png";
-import CEAT from "../assets/images/ceat.png";
-import APOLLO from "../assets/images/apollo.png";
+import MRF from "../../assets/images/mrf.png";
+import CEAT from "../../assets/images/ceat.png";
+import APOLLO from "../../assets/images/apollo.png";
 
 const Cart = () => {
   const [cart, setCart] = useState([
