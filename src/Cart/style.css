@@ -1,0 +1,9 @@
+.input-field {
+    padding: 2px;
+  border: 1px solid hsl(0, 0%, 90%);
+  border-radius: 5px;
+}
+
+.input-field:focus {
+  outline: none;
+}
